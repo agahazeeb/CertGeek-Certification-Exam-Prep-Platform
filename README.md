@@ -136,4 +136,4 @@ All practice questions and interactive labs on CertGeek are original content cre
 
 **GitHub:** [@agahazeeb](https://github.com/agahazeeb)
 
-**LinkedIn:** [@agahazeeb](www.linkedin.com/in/agahazeeb)
+**LinkedIn:** (www.linkedin.com/in/agahazeeb)
