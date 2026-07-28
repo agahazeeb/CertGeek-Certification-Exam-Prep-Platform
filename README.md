@@ -156,4 +156,4 @@ All practice questions and interactive labs on CertGeek are original content cre
 ## Contact
 
 **GitHub:** [@agahazeeb](https://github.com/agahazeeb)
-<!-- Add your LinkedIn and/or email here so recruiters can reach you -->
+- **LinkedIn:** (www.linkedin.com/in/agahazeeb)
