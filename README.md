@@ -141,7 +141,7 @@ Solo developer. Product design, UI/UX, frontend, backend, database design, authe
 
 CertGeek is a live product and its application repository is private.
 
-This repository is a public showcase — overview, screenshots, and a link to the running app. The fastest way to evaluate the work is to [use it](https://www.certgeek.net). I'm glad to walk through the codebase and technical decisions directly in an interview.
+This repository is a public showcase — overview, screenshots, and a link to the running app. The fastest way to evaluate the work is to [use it](https://www.certgeek.net).
 
 ---
 
